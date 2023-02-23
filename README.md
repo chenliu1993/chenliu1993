@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 逃げるは駄目だ！！！
+### 逃げるのは駄目だ！！！
 
 - 🌱 I’m currently learning on Java Springboot MVC, but maybe golang plus kubernetes is my field, emmmmm just for now
 - 💬 Ask me about kubernetes and container for now
