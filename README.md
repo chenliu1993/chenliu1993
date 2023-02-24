@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: cl2037829916@gmail.com
 - ⚡ find more about me: www.cliufreever.com/webblog
 - 😄 Pronouns: Amateur Programmer/Amateur Japanese Learner/Amateur at Everything
+- ⚡ Fun fact: Big fan of lord of rings and Rocky, I will fight past because there is no tomorrow!!
 
 **Languages and Tools:** 
 
