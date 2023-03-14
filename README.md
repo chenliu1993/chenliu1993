@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### 逃げるのは駄目だ！！！
 
-- 🌱 I’m currently learning on Java Springboot MVC
-- 💬 kubernetes and container are the future
+- 🌱 I’m currently learning on Java Springboot MVC, always learning on Kubernetes
 - 📫 How to reach me: cl2037829916@gmail.com
 - ⚡ find more about me: www.cliufreever.com/webblog
 - 😄 Pronouns: Amateur Programmer/Amateur Japanese Learner/Amateur at Everything
