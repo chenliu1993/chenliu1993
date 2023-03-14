@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 
 ### 逃げるのは駄目だ！！！
 
+- 💬 Ask me about kubernetes ops and csi and container and cloud
 - 🌱 I’m currently learning on Java Springboot MVC, always learning on Kubernetes
 - 📫 How to reach me: cl2037829916@gmail.com
 - ⚡ find more about me: www.cliufreever.com/webblog
-- 😄 Pronouns: Amateur Programmer/Amateur Japanese Learner/Amateur at Everything
+- 😄 Pronouns: Amateur Go Programmer/Amateur Java Programmer/Amateur CKS/Amateur at Cloud/Amateur Japanese Learner/AmeAmateur at Everything so I can always keep learning
 - ⚡ Fun fact: The last thing you want is to look back on your life and wonder... if only.
 
 **Languages and Tools:** 
