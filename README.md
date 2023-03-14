@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### 逃げるのは駄目だ！！！
 
-- 🌱 I’m currently learning on Java Springboot MVC, but maybe golang plus kubernetes is my field, emmmmm just for now
-- 💬 Ask me about kubernetes and container for now
+- 🌱 I’m currently learning on Java Springboot MVC
+- 💬 kubernetes and container are the future
 - 📫 How to reach me: cl2037829916@gmail.com
 - ⚡ find more about me: www.cliufreever.com/webblog
 - 😄 Pronouns: Amateur Programmer/Amateur Japanese Learner/Amateur at Everything
