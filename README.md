@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about kubernetes and csi and container and cloud
 - 📫 How to reach me: cl2037829916@gmail.com
 - ⚡ find more about me: www.cliufreever.com/webblog
-- 😄 Pronouns: Amateur Go Programmer/Amateur Java Programmer/Amateur CKS/Amateur at Cloud/Amateur Japanese Learner/Amateur at Everything so I can always keep learning
+- 😄 Pronouns: Amateur Go Programmer/Amateur Java Programmer/Amateur CKS/Amateur at Cloud/Amateur Japanese Learner/Amateur at Everything
 - ⚡ Fun fact: The last thing you want is to look back on your life and wonder... if only.
 
 **Languages and Tools:** 
