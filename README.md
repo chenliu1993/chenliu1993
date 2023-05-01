@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 
 
-- 💬 Ask me about kubernetes ops and csi and container and cloud
+- 💬 Ask me about kubernetes and csi and container and cloud
 - 📫 How to reach me: cl2037829916@gmail.com
 - ⚡ find more about me: www.cliufreever.com/webblog
 - 😄 Pronouns: Amateur Go Programmer/Amateur Java Programmer/Amateur CKS/Amateur at Cloud/Amateur Japanese Learner/Amateur at Everything so I can always keep learning
