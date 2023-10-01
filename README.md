@@ -16,8 +16,9 @@ I haved died at 2020 because I run away
 ### I haved died at 2020 because I run away
 
 - 💬 Ask me about kubernetes and csi and container and cloud
+-  🌱 I’m currently learning Japanese/how to be a good SRE
 - 📫 How to reach me: cl2037829916@gmail.com
-- 😄 Pronouns: Amateur Go Programmer/Amateur Java Programmer/Amateur CKS/Amateur at Cloud/Amateur Japanese Learner/Amateur at Everything
+- 😄 Pronouns: Amateur Go Programmer/Amateur Java Programmer/Amateur CKS/Amateur at Cloud/Amateur Japanese Learner/Amateur at Everything, holder of CKS/CKA/CKAD/PCA/AWS DevOPs/AWS SysOps/AWS Practioner
 - ⚡ Fun fact: The last thing you want is to look back on your life and wonder... if only.
 
 **Languages and Tools:** 
